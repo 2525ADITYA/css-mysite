@@ -1,0 +1,104 @@
+body {
+  margin: 0px;
+  border: 0px;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  color: #66bfbf;
+  margin-top: 0;
+  text-align: center;
+  font-size: 90px;
+  font-family: "sacramento", cursive;
+}
+h2 {
+  font-family: "Merriweather", serif;
+  font-weight: normal;
+  font-size: 40px;
+  color: #66bfbf;
+}
+
+.three {
+  background-color: #eaf6f6;
+  padding-top: 100px;
+  position: relative;
+}
+.btm-clound {
+  position: absolute;
+  left: 350px;
+  bottom: 300px;
+}
+.top-clound {
+  position: absolute;
+  right: 350px;
+  top: 50px;
+}
+.adi {
+  width: 20%;
+
+  border-radius: 70px;
+}
+
+hr {
+  border: dotted 10px grey;
+  border-bottom: none;
+  width: 60px;
+}
+
+.com {
+  width: 25%;
+  border-radius: 70px;
+  float: left;
+  margin-right: 30px;
+}
+h3 {
+  color: #11999e;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.Creative {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.contact-me {
+  margin-top: 40px;
+  line-height: 2;
+}
+.btn {
+  color: white;
+  padding: 15px;
+  line-height: 7;
+  border-radius: 6px;
+  background-color: #0078aa;
+  text-decoration: none;
+}
+.bottom-container {
+  background-color: #11999e;
+  height: 10  0px;
+  padding: 20px;
+}
+.copy {
+  color: white;
+  position: relative;
+  top: 30px;
+}
+.footer-link {
+  color: #66bfbf;
+  text-decoration: none;
+  padding: 20px;
+  position: relative;
+  top: 20px;
+  
+}
+a:hover{
+  color: aquamarine;
+}
+.middle-container{
+  padding: 100px 0px;
+}
